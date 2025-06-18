@@ -19,6 +19,20 @@
         ]
     },
     {
+        "name": "God of the Forge",
+        "type": "Pantheon",
+        "uniques": [
+            "[+25]% Production when constructing [Military] units [in this city] <before the [Medieval era]>"
+        ]
+    },
+    {
+        "name": "City Patron Deity",
+        "type": "Pantheon",
+        "uniques": [
+            "[+25]% Production when constructing [All] buildings [in this city] <before the [Medieval era]>"
+        ]
+    },
+    {
         "name": "Dance of the Aurora",
         "type": "Pantheon",
         "uniques": ["[+1 Faith] from every [Tundra]"]
@@ -301,6 +315,17 @@
         "type": "Founder",
         "uniques": ["[+2 Gold, +1 Faith] for each global city following this religion"]
     },
+{
+        "name": "Papal Primacy",
+        "type": "Founder",
+        "uniques": ["[+15]% growth [in this city] <when not at war>","[+3 Gold] per [4] population [in all cities]","[+3 Culture, +2 Faith, +1 Happiness] [in all cities] <when at war>"]
+    }
+{
+        "name": "Iconoclasm",
+        "type": "Founder",
+        "uniques": ["[+5 Faith, -2 Culture] from all [Faith] buildings <in cities with at least [3] [Followers of this Religion]>",
+                    "[-1 Happiness, -2 Faith] from every [Dyes]"]
+    },
     {
         "name": "Dawah",
         "type": "Founder",
@@ -333,14 +358,6 @@
         "uniques": ["[+1]% [Gold] from every follower, up to [20]%"]
     },
     {
-        "name": "Religious Unity",
-        "type": "Founder",
-        "uniques": [
-            "[+100]% Natural religion spread [in City-State cities]",
-            "Resting point for Influence with City-States following this religion [+45]"
-        ]
-    },
-    {
         "name": "Salat",
         "type": "Founder",
         "uniques": ["[+4 Production] [in capital]"]
@@ -366,6 +383,18 @@
         "name": "Cathedrals",
         "type": "Follower",
         "uniques": ["Comment [Unlocks [Cathedral] [in cities following this religion]]"]
+    },
+    {
+        "name": "City Patron Saint",
+        "type": "Follower",
+        "uniques": [
+            "[+25]% Production when constructing [All] buildings [in this city] <after the [Medieval era]>"
+        ]
+    },
+    {
+        "name": "Asceticism",
+        "type": "Follower",
+        "uniques": ["[+2 Happiness] from every [Shrine] <in cities with at least [3] [Followers of this Religion]>"]
     },
     {
         "name": "Choral Music",
@@ -398,6 +427,11 @@
             "[+1 Food] from every [Shrine]",
             "[+2 Food] from every [Temple]"
         ]
+    },
+  {
+        "name": "Monasteries",
+        "type": "Follower",
+        "uniques": ["Comment [Unlocks [Monastery] [in cities following this religion]]"]
     },
     {
         "name": "Followers of Refined Crafts",
@@ -541,6 +575,15 @@
         ]
     },
     {
+        "name": "Religious Unity",
+        "type": "Enhancer",
+        "uniques": [
+            "[+50]% Natural religion spread [in City-State cities]",
+            "Resting point for Influence with City-States following this religion [+45]",
+            "Only available <after adopting [Reformation]>"
+        ]
+    },
+    {
         "name": "Indulgences",
         "type": "Enhancer",
         "uniques": [
@@ -619,7 +662,16 @@
         "type": "Enhancer",
         "uniques": [
             //Should be for all cities following the religion, but I can't do so as an enhancer
-            "[+20]% growth [in cities following this religion]",
+            "[+20]% growth [in cities following this religion]"
+        ]
+    },
+ {
+        "name": "Sacred Sites",
+        "type": "Enhancer",
+        "uniques": [
+            "[+2 Gold, +2 Culture, +2 Faith] from every [Shrine]",
+            "[+2 Gold, +2 Culture, +2 Faith] from every [Temple]",
+            "[+2 Gold, +2 Culture, +2 Faith] from every [Grand Temple]",
             "Only available <after adopting [Reformation]>"
         ]
     },
@@ -643,8 +695,14 @@
         ]
     },
     {
+        "name": "Religious Texts",
+        "type": "Enhancer",
+        "uniques": ["[+34]% Natural religion spread [in all cities]", "[+34]% Natural religion spread [in all cities] <after discovering [Printing Press]>",
+            "Only available <after adopting [Reformation]>"]
+    },
+    {
         "name": "Unity of the Prophets",
         "type": "Enhancer",
-        "uniques": ["[+4 Faith, +2 Production] from every [Holy site]"]
+        "uniques": ["[+4 Faith, +2 Production] from every [Holy site]","[+4 Culture, +2 Production] from every [Landmark]"]
     }
 ]
