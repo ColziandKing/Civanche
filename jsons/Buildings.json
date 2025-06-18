@@ -1151,7 +1151,7 @@
         "cost": 100,
         "hurryCostModifier": 25,
         "gold": 2,
-        "uniques": ["Free [Settler] appears","[+2 Gold] from [Land Trade Route (Gold)] tiles [in this city]"],
+        "uniques": ["[+2 Gold] from [Land Trade Route (Gold)] tiles [in this city]"],
         "requiredTech": "Horseback Riding"
     },
     {
@@ -1161,7 +1161,7 @@
         "cost": 100,
         "hurryCostModifier": 25,
         "science": 3,
-        "uniques": ["Free [Settler] appears","[+2 Gold] from [Land Trade Route (Gold)] tiles [in this city]"],
+        "uniques": ["[+2 Gold] from [Land Trade Route (Gold)] tiles [in this city]"],
         "requiredTech": "The Wheel"
     },
     {
@@ -1171,7 +1171,6 @@
         "cost": 100,
         "hurryCostModifier": 25,
         "uniques": [
-		"Free [Settler] appears",
             "[+2 Gold] from [Land Trade Route (Gold)] tiles [in this city]",
             "[+1 Gold] per [3] population [in this city]"
         ],
