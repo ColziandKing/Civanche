@@ -57,6 +57,7 @@
         "innerColor": [190, 146, 61],
         "uniqueName": "Saint Elesbaan's Blessing",
         "uniques": [
+            "Gain a free [Monument] [in all cities]","[+2 Food] [in capital]"
             // Something Something Religion goes to every city immedietely
             // Something Something Religion doesn't spread to other cities
             //Note: this requires a unique regarding what it spreads to, not from
@@ -1653,7 +1654,8 @@
         "outerColor": [182, 101, 191],
         "innerColor": [0, 0, 178],
         "uniqueName": "Grand Baray of Angkor",
-        "uniques": ["Gain a free [Baray] [in capital]"],
+	"uniqueText": "Gain a free baray in all cities except your capital",
+        "uniques": ["Gain a free [Baray] [in all cities] <in cities without a [Palace]>"],
         "cities": [
             "Yasodharapura","Hariharalaya","Mahendraparvata","Indrapura","Vimayapura","Rajavihara","Isvarapura","Lingapura","Nagara Jayasri","Vyadhapura",
             "Dviradapura","Amarendrapura","Lavodayapura","Shrestapura","Aninditapura","Isanapura","Banteay Kdei","Chaturmukha","Phetchaburi","Preah Vihear",
