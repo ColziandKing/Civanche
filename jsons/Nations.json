@@ -56,6 +56,7 @@
         "outerColor": [68, 33, 78],
         "innerColor": [190, 146, 61],
         "uniqueName": "Saint Elesbaan's Blessing",
+	"uniqueText": "Gain a free Monument in all cities and +2 Food in capital",
         "uniques": [
             "Gain a free [Monument] [in all cities]","[+2 Food] [in capital]"
             // Something Something Religion goes to every city immedietely
