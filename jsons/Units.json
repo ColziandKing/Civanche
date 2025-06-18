@@ -2630,7 +2630,7 @@
 		"name": "B17",
 		"unitType": "Bomber",
 		"replaces": "Bomber",
-		"uniqueTo": "Amercia",
+		"uniqueTo": "America",
 		"movement": 2,
 		"strength": 70,
 		"rangedStrength": 70,
