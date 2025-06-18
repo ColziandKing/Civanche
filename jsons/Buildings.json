@@ -509,12 +509,13 @@
     {
         "name": "Governor's Mansion",
 	    "cost": 135,
+        "hurryCostModifier": 25,
 	    "requiredTech": "Mathematics",
         "happiness": 2,
         "uniques": [
             "Unsellable","[+2] population [in this city]",
-		"Only available <in cities without a [Palace]>",
-		"Can be purchased with [Gold] <in cities without a [Palace]>",
+            "Only available <in cities with a [Granary]>",
+            "Destroyed when the city is captured"
         ]
     },  
     {
