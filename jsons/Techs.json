@@ -11,7 +11,6 @@
                 "row": 5,
                 "quote": "'Where tillage begins, other arts follow. The farmers therefore are the founders of human civilization.' - Daniel Webster",
                 "uniques": [
-                    "Starting tech",
                     "Notified of new Barbarian encampments"
                 ]
             }
@@ -164,6 +163,7 @@
                 "name": "Currency",
                 "row": 7,
                 "prerequisites": ["Mathematics"],
+                "uniques": ["Enables conversion of city production to [Gold]"],
                 "quote": "'Better is bread with a happy heart than wealth with vexation.' - Amenemope"
             },
             {
@@ -195,6 +195,7 @@
                 "name": "Theology",
                 "row": 2,
                 "prerequisites": ["Drama and Poetry","Philosophy"],
+                "uniques": ["Enables conversion of city production to [Faith]"],
                 "quote": "'Three things are necessary for the salvation of man: to know what he ought to believe; to know what he ought to desire; and to know what he ought to do' - St. Thomas Aquinas"
             },
             {
@@ -207,7 +208,6 @@
                 "name": "Guilds",
                 "row": 7,
                 "prerequisites": ["Currency"],
-                "uniques": ["Enables conversion of city production to [Gold]"],
                 "quote": "'The merchants and the traders have come; their profits are pre-ordained...' - Sri Guru Granth Sahib"
             },
             {
@@ -289,6 +289,7 @@
                 "name": "Acoustics",
                 "row": 4,
                 "prerequisites": ["Education"],
+                "uniques": ["Enables conversion of city production to [Culture]"],
                 "quote": "'Their rising all at once was as the sound of thunder heard remote' - Milton"
             },
             {
@@ -626,7 +627,7 @@
         "techs": [
             {
                 "name": "Globalization",
-                "row": 1,
+                "row": 2,
                 "prerequisites": ["Telecommunications"],
                 "quote": "'The new electronic interdependence recreates the world in the image of a global village.' - Marshall McLuhan"
             },
