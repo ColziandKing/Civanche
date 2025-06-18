@@ -1,0 +1,20 @@
+
+game.png
+size: 2048, 2048
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+ReligionIcons/Oriental Orthodoxy
+  rotate: false
+  xy: 4, 1556
+  size: 525, 475
+  orig: 525, 475
+  offset: 0, 0
+  index: -1
+ReligionIcons/Roman Catholicism
+  rotate: false
+  xy: 720, 604
+  size: 151, 200
+  orig: 151, 200
+  offset: 0, 0
+  index: -1
