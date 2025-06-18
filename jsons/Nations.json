@@ -1030,7 +1030,7 @@
         "outerColor": [3, 16, 230],
         "innerColor": [255, 148, 10],
         "uniqueName": "Holy Roman Empire",
-        "uniques": ["[+1 Faith] from every [Farm]"],
+        "uniques": ["[+3 Faith] from every [Farm]"],
         "cities": [
             "Aachen","Cologne","Duisburg","Metz","Regensburg","Luxembourg","Strasbourg","Nuremberg","Ulm","Fulda",
             "Rheims","Verdun","Mainz","Worms","Lubeck","Brandenburg","Heidelberg","Tongres","Betuwe","Tieling",
