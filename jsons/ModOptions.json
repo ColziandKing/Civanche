@@ -1,4 +1,11 @@
 {
+	"isBaseRuleset": "false",
+    "uniques": [
+	"Allow City States to spawn with additional units",
+	"Can trade civilization introductions for [0] Gold",
+	"Allow raze capital",
+	"Allow raze holy city",
+    ],
     "constants":
     {
         "maxLakeSize": 5,
