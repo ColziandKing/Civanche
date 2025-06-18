@@ -734,6 +734,10 @@
             "Double movement in [Hill]"
         ]
     },
+	{
+		"name": "[Zero] ability",
+		"uniques": ["[+33]% Strength <vs [Fighter] units>"]
+	},
     {
         "name": "[Chu-Ko-Nu] ability",
         "uniques": [
